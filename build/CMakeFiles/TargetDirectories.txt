@@ -1,3 +1,0 @@
-C:/Users/16009/Desktop/StudentManager/build/CMakeFiles/StudentManager.dir
-C:/Users/16009/Desktop/StudentManager/build/CMakeFiles/edit_cache.dir
-C:/Users/16009/Desktop/StudentManager/build/CMakeFiles/rebuild_cache.dir
